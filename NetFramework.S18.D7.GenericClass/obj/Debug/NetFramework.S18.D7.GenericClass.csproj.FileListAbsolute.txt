@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\bin\Debug\NetFramework.S18.D7.GenericClass.exe.config
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\bin\Debug\NetFramework.S18.D7.GenericClass.exe
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\bin\Debug\NetFramework.S18.D7.GenericClass.pdb
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\obj\Debug\NetFramework.S18.D7.GenericClass.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\obj\Debug\NetFramework.S18.D7.GenericClass.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\obj\Debug\NetFramework.S18.D7.GenericClass.exe
+D:\C#\NetFramework\NetFramework.S18.D7.GenericClass\obj\Debug\NetFramework.S18.D7.GenericClass.pdb

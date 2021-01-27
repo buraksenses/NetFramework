@@ -1,0 +1,6 @@
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\bin\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.exe.config
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\bin\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.exe
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\bin\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.pdb
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\obj\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\obj\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.exe
+D:\C#\NetFramework\NetFramework.S18.D5.DictionaryListVeSortedList\obj\Debug\NetFramework.S18.D5.DictionaryListVeSortedList.pdb

@@ -1,0 +1,11 @@
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\bin\Debug\NetFramework.S19.D1.WindowsFormNedir.exe.config
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\bin\Debug\NetFramework.S19.D1.WindowsFormNedir.exe
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\bin\Debug\NetFramework.S19.D1.WindowsFormNedir.pdb
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.Form1.resources
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.exe
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.pdb
+D:\C#\NetFramework\NetFramework.S19.D1.WindowsFormNedir\obj\Debug\NetFramework.S19.D1.WindowsFormNedir.MerhabaForm.resources
