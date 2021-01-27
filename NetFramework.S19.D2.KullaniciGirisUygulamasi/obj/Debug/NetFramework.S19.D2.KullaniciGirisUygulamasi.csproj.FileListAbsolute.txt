@@ -1,0 +1,11 @@
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.exe.config
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.exe
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.pdb
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.Form1.resources
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.exe
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.pdb
+D:\C#\NetFramework\NetFramework.S19.D2.KullaniciGirisUygulamasi\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulamasi.anaForm.resources

@@ -1,0 +1,10 @@
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\bin\Debug\NetFramework.S19D4.MessageBoxUygulama.exe.config
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\bin\Debug\NetFramework.S19D4.MessageBoxUygulama.exe
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\bin\Debug\NetFramework.S19D4.MessageBoxUygulama.pdb
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxUygulama.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19D4.MessageBoxUygulama.Form1.resources
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19D4.MessageBoxUygulama.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxUygulama.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxUygulama.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19D4.MessageBoxUygulama.exe
+D:\C#\NetFramework\NetFramework.S19D4.MessageBoxUygulama\obj\Debug\NetFramework.S19D4.MessageBoxUygulama.pdb

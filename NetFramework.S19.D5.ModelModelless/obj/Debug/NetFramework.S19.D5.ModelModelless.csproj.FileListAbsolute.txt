@@ -1,0 +1,10 @@
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\bin\Debug\NetFramework.S19.D5.ModelModelless.exe.config
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\bin\Debug\NetFramework.S19.D5.ModelModelless.exe
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\bin\Debug\NetFramework.S19.D5.ModelModelless.pdb
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.Form1.resources
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.exe
+D:\C#\NetFramework\NetFramework.S19.D5.ModelModelless\obj\Debug\NetFramework.S19.D5.ModelModelless.pdb
