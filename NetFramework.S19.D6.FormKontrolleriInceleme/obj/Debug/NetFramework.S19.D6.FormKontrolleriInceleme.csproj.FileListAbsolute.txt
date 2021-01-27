@@ -1,0 +1,10 @@
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\bin\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.exe.config
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\bin\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.exe
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\bin\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.pdb
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.Form1.resources
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.exe
+D:\C#\NetFramework\NetFramework.S19.D6.FormKontrolleriInceleme\obj\Debug\NetFramework.S19.D6.FormKontrolleriInceleme.pdb

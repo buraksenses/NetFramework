@@ -1,0 +1,7 @@
+D:\C#\NetFramework\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.exe.config
+D:\C#\NetFramework\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.exe
+D:\C#\NetFramework\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.pdb
+D:\C#\NetFramework\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.exe
+D:\C#\NetFramework\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.pdb
+D:\C#\NetFramework\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.csprojAssemblyReference.cache

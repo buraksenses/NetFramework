@@ -1,0 +1,7 @@
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\bin\Debug\Udemy.HataYonetimi.TryCatch.exe.config
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\bin\Debug\Udemy.HataYonetimi.TryCatch.exe
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\bin\Debug\Udemy.HataYonetimi.TryCatch.pdb
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\obj\Debug\Udemy.HataYonetimi.TryCatch.csprojAssemblyReference.cache
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\obj\Debug\Udemy.HataYonetimi.TryCatch.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\obj\Debug\Udemy.HataYonetimi.TryCatch.exe
+D:\C#\NetFramework\Udemy.HataYonetimi.TryCatch\obj\Debug\Udemy.HataYonetimi.TryCatch.pdb

@@ -1,0 +1,7 @@
+D:\C#\NetFramework\Udemy.DelegateNedir\bin\Debug\Udemy.DelegateNedir.exe.config
+D:\C#\NetFramework\Udemy.DelegateNedir\bin\Debug\Udemy.DelegateNedir.exe
+D:\C#\NetFramework\Udemy.DelegateNedir\bin\Debug\Udemy.DelegateNedir.pdb
+D:\C#\NetFramework\Udemy.DelegateNedir\obj\Debug\Udemy.DelegateNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\Udemy.DelegateNedir\obj\Debug\Udemy.DelegateNedir.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Udemy.DelegateNedir\obj\Debug\Udemy.DelegateNedir.exe
+D:\C#\NetFramework\Udemy.DelegateNedir\obj\Debug\Udemy.DelegateNedir.pdb
