@@ -1,0 +1,10 @@
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\bin\Debug\Z1.Udemy.RSSOkumaUygulaması.exe.config
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\bin\Debug\Z1.Udemy.RSSOkumaUygulaması.exe
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\bin\Debug\Z1.Udemy.RSSOkumaUygulaması.pdb
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.csprojAssemblyReference.cache
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.Form1.resources
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.Properties.Resources.resources
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.csproj.GenerateResource.cache
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.exe
+D:\C#\NetFramework\Z1.Udemy.RSSOkumaUygulaması\obj\Debug\Z1.Udemy.RSSOkumaUygulaması.pdb
