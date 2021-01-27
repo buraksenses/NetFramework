@@ -1,0 +1,6 @@
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.exe.config
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.exe
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.pdb
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.exe
+D:\C#\NetFramework\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.pdb

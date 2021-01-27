@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\bin\Debug\NetFramework.S18.D3.ListGenericIslemler.exe.config
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\bin\Debug\NetFramework.S18.D3.ListGenericIslemler.exe
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\bin\Debug\NetFramework.S18.D3.ListGenericIslemler.pdb
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\obj\Debug\NetFramework.S18.D3.ListGenericIslemler.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\obj\Debug\NetFramework.S18.D3.ListGenericIslemler.exe
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\obj\Debug\NetFramework.S18.D3.ListGenericIslemler.pdb
+D:\C#\NetFramework\NetFramework.S18.D3.ListGenericIslemler\obj\Debug\NetFramework.S18.D3.ListGenericIslemler.csproj.CoreCompileInputs.cache

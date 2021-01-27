@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.exe.config
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.exe
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.pdb
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.exe
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.pdb
+D:\C#\NetFramework\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.csproj.CoreCompileInputs.cache
