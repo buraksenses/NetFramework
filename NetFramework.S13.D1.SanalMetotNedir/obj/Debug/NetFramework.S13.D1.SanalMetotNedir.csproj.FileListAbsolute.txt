@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\bin\Debug\NetFramework.S13.D1.SanalMetotNedir.exe.config
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\bin\Debug\NetFramework.S13.D1.SanalMetotNedir.exe
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\bin\Debug\NetFramework.S13.D1.SanalMetotNedir.pdb
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\obj\Debug\NetFramework.S13.D1.SanalMetotNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\obj\Debug\NetFramework.S13.D1.SanalMetotNedir.exe
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\obj\Debug\NetFramework.S13.D1.SanalMetotNedir.pdb
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotNedir\obj\Debug\NetFramework.S13.D1.SanalMetotNedir.csproj.CoreCompileInputs.cache

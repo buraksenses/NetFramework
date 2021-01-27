@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.exe.config
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.exe
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.pdb
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.exe
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.pdb
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\bin\Debug\NetFramework.S15.D1.InterfaceNedir.exe.config
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\bin\Debug\NetFramework.S15.D1.InterfaceNedir.exe
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\bin\Debug\NetFramework.S15.D1.InterfaceNedir.pdb
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\obj\Debug\NetFramework.S15.D1.InterfaceNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\obj\Debug\NetFramework.S15.D1.InterfaceNedir.exe
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\obj\Debug\NetFramework.S15.D1.InterfaceNedir.pdb
+D:\C#\NetFramework\NetFramework.S15.D1.InterfaceNedir\obj\Debug\NetFramework.S15.D1.InterfaceNedir.csproj.CoreCompileInputs.cache
