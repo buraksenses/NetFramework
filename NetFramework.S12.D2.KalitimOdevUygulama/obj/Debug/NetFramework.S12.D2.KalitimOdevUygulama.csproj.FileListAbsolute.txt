@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\bin\Debug\NetFramework.S12.D2.KalitimOdevUygulama.exe.config
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\bin\Debug\NetFramework.S12.D2.KalitimOdevUygulama.exe
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\bin\Debug\NetFramework.S12.D2.KalitimOdevUygulama.pdb
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\obj\Debug\NetFramework.S12.D2.KalitimOdevUygulama.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\obj\Debug\NetFramework.S12.D2.KalitimOdevUygulama.exe
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\obj\Debug\NetFramework.S12.D2.KalitimOdevUygulama.pdb
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOdevUygulama\obj\Debug\NetFramework.S12.D2.KalitimOdevUygulama.csproj.CoreCompileInputs.cache

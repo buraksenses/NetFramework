@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.exe.config
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.exe
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.pdb
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.exe
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.pdb
+D:\C#\NetFramework\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.csproj.CoreCompileInputs.cache

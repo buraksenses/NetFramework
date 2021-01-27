@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\bin\Debug\NetFramework.S10.D3.BolumSonuOdev.exe.config
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\bin\Debug\NetFramework.S10.D3.BolumSonuOdev.exe
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\bin\Debug\NetFramework.S10.D3.BolumSonuOdev.pdb
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\obj\Debug\NetFramework.S10.D3.BolumSonuOdev.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\obj\Debug\NetFramework.S10.D3.BolumSonuOdev.exe
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\obj\Debug\NetFramework.S10.D3.BolumSonuOdev.pdb
+D:\C#\NetFramework\NetFramework.S10.D3.BolumSonuOdev\obj\Debug\NetFramework.S10.D3.BolumSonuOdev.csproj.CoreCompileInputs.cache

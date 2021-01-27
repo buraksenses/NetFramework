@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NetFramework.S11.D1.InnerTypeModelleme
+{
+    class MusteriIletisim
+    {
+        public string tel_no { get; set; }
+
+        public bool AktifPasif { get; set; }
+
+    }
+}

@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe.config
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.pdb
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.pdb
+D:\C#\NetFramework\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.csproj.CoreCompileInputs.cache
