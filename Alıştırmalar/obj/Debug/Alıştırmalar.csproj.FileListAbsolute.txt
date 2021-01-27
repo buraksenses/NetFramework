@@ -1,0 +1,7 @@
+D:\C#\NetFramework\Alıştırmalar\bin\Debug\Alıştırmalar.exe.config
+D:\C#\NetFramework\Alıştırmalar\bin\Debug\Alıştırmalar.exe
+D:\C#\NetFramework\Alıştırmalar\bin\Debug\Alıştırmalar.pdb
+D:\C#\NetFramework\Alıştırmalar\obj\Debug\Alıştırmalar.csprojAssemblyReference.cache
+D:\C#\NetFramework\Alıştırmalar\obj\Debug\Alıştırmalar.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Alıştırmalar\obj\Debug\Alıştırmalar.exe
+D:\C#\NetFramework\Alıştırmalar\obj\Debug\Alıştırmalar.pdb
