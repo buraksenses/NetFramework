@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\bin\Debug\NetFramework.S8.D1.OOPGiriş.exe.config
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\bin\Debug\NetFramework.S8.D1.OOPGiriş.exe
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\bin\Debug\NetFramework.S8.D1.OOPGiriş.pdb
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\obj\Debug\NetFramework.S8.D1.OOPGiriş.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\obj\Debug\NetFramework.S8.D1.OOPGiriş.exe
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\obj\Debug\NetFramework.S8.D1.OOPGiriş.pdb
+D:\C#\NetFramework\NetFramework.S8.D1.OOPGiriş\obj\Debug\NetFramework.S8.D1.OOPGiriş.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\bin\Debug\NetFramework.S8.D2.AracClassOdev.exe.config
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\bin\Debug\NetFramework.S8.D2.AracClassOdev.exe
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\bin\Debug\NetFramework.S8.D2.AracClassOdev.pdb
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\obj\Debug\NetFramework.S8.D2.AracClassOdev.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\obj\Debug\NetFramework.S8.D2.AracClassOdev.exe
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\obj\Debug\NetFramework.S8.D2.AracClassOdev.pdb
+D:\C#\NetFramework\NetFramework.S8.D2.AracClassOdev\obj\Debug\NetFramework.S8.D2.AracClassOdev.csproj.CoreCompileInputs.cache

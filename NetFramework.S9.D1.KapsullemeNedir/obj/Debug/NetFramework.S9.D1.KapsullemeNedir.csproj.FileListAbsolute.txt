@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.exe.config
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.exe
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.pdb
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.exe
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.pdb
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.csproj.CoreCompileInputs.cache
