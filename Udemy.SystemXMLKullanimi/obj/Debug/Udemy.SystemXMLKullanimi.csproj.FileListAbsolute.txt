@@ -1,0 +1,7 @@
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\bin\Debug\Udemy.SystemXMLKullanimi.exe.config
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\bin\Debug\Udemy.SystemXMLKullanimi.exe
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\bin\Debug\Udemy.SystemXMLKullanimi.pdb
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\obj\Debug\Udemy.SystemXMLKullanimi.csprojAssemblyReference.cache
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\obj\Debug\Udemy.SystemXMLKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\obj\Debug\Udemy.SystemXMLKullanimi.exe
+D:\C#\NetFramework\Udemy.SystemXMLKullanimi\obj\Debug\Udemy.SystemXMLKullanimi.pdb

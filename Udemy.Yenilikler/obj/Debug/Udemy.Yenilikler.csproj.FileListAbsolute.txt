@@ -1,0 +1,7 @@
+D:\C#\NetFramework\Udemy.Yenilikler\bin\Debug\Udemy.Yenilikler.exe.config
+D:\C#\NetFramework\Udemy.Yenilikler\bin\Debug\Udemy.Yenilikler.exe
+D:\C#\NetFramework\Udemy.Yenilikler\bin\Debug\Udemy.Yenilikler.pdb
+D:\C#\NetFramework\Udemy.Yenilikler\obj\Debug\Udemy.Yenilikler.csprojAssemblyReference.cache
+D:\C#\NetFramework\Udemy.Yenilikler\obj\Debug\Udemy.Yenilikler.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\Udemy.Yenilikler\obj\Debug\Udemy.Yenilikler.exe
+D:\C#\NetFramework\Udemy.Yenilikler\obj\Debug\Udemy.Yenilikler.pdb
