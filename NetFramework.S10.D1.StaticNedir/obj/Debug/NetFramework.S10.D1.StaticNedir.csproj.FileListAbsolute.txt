@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe.config
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.pdb
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.exe
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.pdb
+D:\C#\NetFramework\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\bin\Debug\NetFramework.S9.D2.KapsullemeAraOdev.exe.config
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\bin\Debug\NetFramework.S9.D2.KapsullemeAraOdev.exe
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\bin\Debug\NetFramework.S9.D2.KapsullemeAraOdev.pdb
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\obj\Debug\NetFramework.S9.D2.KapsullemeAraOdev.exe
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\obj\Debug\NetFramework.S9.D2.KapsullemeAraOdev.pdb
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\obj\Debug\NetFramework.S9.D2.KapsullemeAraOdev.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeAraOdev\obj\Debug\NetFramework.S9.D2.KapsullemeAraOdev.csproj.CoreCompileInputs.cache

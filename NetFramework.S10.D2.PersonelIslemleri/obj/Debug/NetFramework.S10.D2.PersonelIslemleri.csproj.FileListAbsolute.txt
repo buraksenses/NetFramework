@@ -1,0 +1,7 @@
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\bin\Debug\NetFramework.S10.D2.PersonelIslemleri.exe.config
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\bin\Debug\NetFramework.S10.D2.PersonelIslemleri.exe
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\bin\Debug\NetFramework.S10.D2.PersonelIslemleri.pdb
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\obj\Debug\NetFramework.S10.D2.PersonelIslemleri.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\obj\Debug\NetFramework.S10.D2.PersonelIslemleri.exe
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\obj\Debug\NetFramework.S10.D2.PersonelIslemleri.pdb
+D:\C#\NetFramework\NetFramework.S10.D2.PersonelIslemleri\obj\Debug\NetFramework.S10.D2.PersonelIslemleri.csproj.CoreCompileInputs.cache
