@@ -1,0 +1,7 @@
+D:\C#\NetFramework\2044_Final\bin\Debug\2044_Final.exe.config
+D:\C#\NetFramework\2044_Final\bin\Debug\2044_Final.exe
+D:\C#\NetFramework\2044_Final\bin\Debug\2044_Final.pdb
+D:\C#\NetFramework\2044_Final\obj\Debug\2044_Final.csprojAssemblyReference.cache
+D:\C#\NetFramework\2044_Final\obj\Debug\2044_Final.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\2044_Final\obj\Debug\2044_Final.exe
+D:\C#\NetFramework\2044_Final\obj\Debug\2044_Final.pdb
